@@ -17,7 +17,9 @@
     --secondary-font-color: #c59d5f;
     --body-font-color: #515151;
 }
-
+body {
+	overflow-x: hidden;
+}
 
 /* Mobile First*/
 html {
@@ -208,6 +210,9 @@ header {
 	height: .25rem;
 	background-color: #fff;
 	position: relative;
+	opacity: 0;
+	animation: grow 2s forwards;
+	animation-delay: .9s;
 }
 
 .line-right::before, .line-left::before {
@@ -215,7 +220,10 @@ header {
 	top: 50%;
 	transform: translateY(-50%);
 	position: absolute;
+	opacity: 0;
 	border: .6rem solid transparent;
+	animation: grow .5s forwards;
+	animation-delay: 1.2s;
 }
 
 .line-right::before {
@@ -373,6 +381,11 @@ footer {
 	color: #fff;
 	text-align: center;
 	position: relative;
+}
+.single-animation {
+	opacity: 0;
+	animation: fadeDown .5s forwards;
+	animation-delay: .5s;
 }
 
 .back-to-top {
@@ -597,6 +610,27 @@ footer {
 	}
 }
 
+@keyframes grow {
+	0% {
+		width: 0;
+	}
+
+	100% {
+		opacity: 1;
+		width: 100;
+	}
+}
+
+@keyframes fadeDown {
+	0% {
+		transform: translateY(-1rem);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
 
 
 
