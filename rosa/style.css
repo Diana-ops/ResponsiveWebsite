@@ -177,6 +177,7 @@ header {
 	letter-spacing:  2px;
 	opacity: 0;
 	animation: fadeUp .5s forwards;
+	animation-delay: .5s;
 }
 
 .first-letter {
@@ -191,6 +192,8 @@ header {
 	font-weight: 900;
 	letter-spacing: .5rem;
 	margin-right: -.5rem;
+	animation: scale .5s forwards;
+	animation-delay: .5s;
 }
 
 .separator {
@@ -580,6 +583,17 @@ footer {
 	100% {
 		opacity: 1;
 		transform: translateY(0);
+	}
+}
+
+@keyframes scale {
+	0% {
+		transform: scale(2);
+	}
+
+	100% {
+		opacity: 1;
+		transform: scale(1);
 	}
 }
 
