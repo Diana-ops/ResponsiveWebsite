@@ -13,9 +13,7 @@
 <script src="https://unpkg.com/scrollreveal"></script>
 ```
 
-:gem: Icons with [Font Awesome](https://fontawesome.com/6?next=%2F)
-
-:gem: Font Style with [Font Awesome](https://fontawesome.com/6?next=%2F)
+:gem: Icons and Font Style with [Font Awesome](https://fontawesome.com/6?next=%2F)
 
 ```html
 <!--Font awesome CDN-->
