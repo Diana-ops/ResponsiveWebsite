@@ -332,6 +332,18 @@ header {
 }
 
 /*Tasteful recipes*/
+.tasteful-recipes {
+	background: url("assets/tasteful-recipes.jpg") center no-repeat;
+	background-size: cover;
+}
+
+.between {
+	min-height: 65vh;
+	display: flex;
+	align-items: center;
+}
+
+/* Discover our menu*/
 
 
 
