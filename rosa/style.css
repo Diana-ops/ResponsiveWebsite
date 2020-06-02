@@ -175,6 +175,8 @@ header {
 	font-weight: 100;
 	line-height: .4;
 	letter-spacing:  2px;
+	opacity: 0;
+	animation: fadeUp .5s forwards;
 }
 
 .first-letter {
@@ -567,6 +569,30 @@ footer {
 		margin-left: 7.5rem;
 	}
 }
+
+/*Animations*/
+
+@keyframes fadeUp {
+	0% {
+		transform: translateY(4rem);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
