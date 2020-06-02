@@ -1,1 +1,3 @@
-:star: <h2>Collection of Single Pages</h2> :star:
+<p align="center">
+:star: <h2 align="center"> Collection of Single Pages</h2>
+</p>
