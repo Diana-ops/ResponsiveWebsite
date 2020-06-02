@@ -1,2 +1,1 @@
-# ResponsiveWebsite
-Development of my first responsive website 
+:star: <h2>Collection of Single Pages</h2> :star:
