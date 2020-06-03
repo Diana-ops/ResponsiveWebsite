@@ -1,15 +1,16 @@
-### How to do background with image and linear gradient together
+:gem: #### How to do background with image and linear gradient together
 
 ```css
 /*Hero*/
 .hero {
-	width: 100%;
-	height: 80vh;
-	background: linear-gradient(135deg, rgba(49,24,131,0.9) 0%, rgba(72, 56, 149, 0.8) 100%), url("images/header-bg.jpg") center no-repeat;
+  width: 100%;
+  height: 80vh;
+  background: linear-gradient(135deg, rgba(49,24,131,0.9) 0%, rgba(72, 56, 149, 0.8) 100%), 
+  		url("images/header-bg.jpg") center no-repeat;
 }
 ```
 
-### How to do lateral navbar
+:gem: ####  How to do lateral navbar
 
 ```javascript
 const selectElement = (s) => document.querySelector(s);
