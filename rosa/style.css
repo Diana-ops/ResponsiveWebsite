@@ -116,24 +116,6 @@ header {
 	transition: opacity .5s;
 }
 
-/* Links to open and close menubar*/
-.open .fa-times{
-	display: block;
-}
-
-.open .fa-bars {
-	display: none;
-}
-
-.open .nav-list {
-	transform: translateX(0);
-}
-
-.open .nav::before {
-	opacity: 1;
-	transition: scale(1);
-}
-
 /* Link to close navbar*/
 .fa-times {
 	display: none;
