@@ -1,4 +1,4 @@
-:gem: #### How to do background with image and linear gradient together
+:gem: <strong> How to do background with image and linear gradient together </strong>
 
 ```css
 /*Hero*/
@@ -10,7 +10,7 @@
 }
 ```
 
-:gem: ####  How to do lateral navbar
+:gem: <strong>  How to do lateral navbar </strong>
 
 ```javascript
 const selectElement = (s) => document.querySelector(s);
