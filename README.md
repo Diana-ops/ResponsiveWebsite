@@ -106,14 +106,14 @@ $ rails server or rails s
 
 É possível acessar a plataforma como 
 
-**Cliente** e **com empresa cadastrada**:
+**Cliente** e **com** empresa cadastrada:
 
 ```
 login: cliente01@gmail.com
 senha: 123456
 ```
 
-**Cliente** e **sem empresa cadastrada**:
+**Cliente** e **sem** empresa cadastrada:
 
 ```
 login: cliente02@gmail.com
