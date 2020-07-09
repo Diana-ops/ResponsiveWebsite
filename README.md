@@ -142,8 +142,8 @@ O banco de dados utilizado nesta aplicação foi o [SQLite3](https://www.sqlite.
 
 ## Desenvolvedores do Checkout de Vendas
 
-| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/reginadiana) |  [<img src="https://avatars2.githubusercontent.com/u/54655097?s=400&v=4" width=115><br><sub>TenaniLucas</sub>](https://github.com/TenaniLucas) |  [<img src="https://avatars0.githubusercontent.com/u/53353915?s=400&u=62f2e018464f214c0039d92f3c6e236b314a4c04&v=4" width=115><br><sub>Guilherme bertho luiz</sub>](https://github.com/namae-no-nai) |
-| :---: | :---: | :---: 
+|  [<img src="https://avatars3.githubusercontent.com/u/29666613?s=400&v=4" width=115><br><sub>Alexandre Lima</sub>](https://github.com/AvilaLima) | [<img src="https://avatars2.githubusercontent.com/u/24919300?s=400&v=4" width=115><br><sub>Chistian</sub>](https://github.com/xitomoco) | [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/reginadiana) | [<img src="https://avatars0.githubusercontent.com/u/53353915?s=400&u=62f2e018464f214c0039d92f3c6e236b314a4c04&v=4" width=115><br><sub>Guilherme bertho luiz</sub>](https://github.com/namae-no-nai) | [<img src="https://avatars2.githubusercontent.com/u/54655097?s=400&v=4" width=115><br><sub>TenaniLucas</sub>](https://github.com/TenaniLucas) |  
+| :---: | :---: | :---: | :---: | :---: |
 
 
 
