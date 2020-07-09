@@ -41,8 +41,6 @@ O projeto é uma plataforma de venda de bots, onde os clientes podem criar uma c
 
 ## Layout 
 
-## Funcionalidades
-
 ## Gems instaladas
 
 :books: [**Devise**](https://github.com/heartcombo/devise) para autenticação de usuários (recrutadores e candidatos)
@@ -106,21 +104,23 @@ $ rails server or rails s
 
 ## Casos de Uso :busts_in_silhouette:
 
-É possível acessar a plataforma como **cliente** e **com empresa cadastrada** com os seguintes dados:
+É possível acessar a plataforma como 
+
+**Cliente** e **com empresa cadastrada**:
 
 ```
 login: cliente01@gmail.com
 senha: 123456
 ```
 
-É possível acessar a plataforma como **cliente** e **sem empresa cadastrada** com os seguintes dados:
+**Cliente** e **sem empresa cadastrada**:
 
 ```
 login: cliente02@gmail.com
 senha: 123456
 ```
 
-É possível acessar a plataforma como **vendedor** com os seguintes dados:
+**Vendedor**:
 
 ```
 login: first@teste.com
@@ -140,6 +140,10 @@ O banco de dados utilizado nesta aplicação foi o [SQLite3](https://www.sqlite.
 
 ## API
 
+## Desenvolvedores do Checkout de Vendas
+
+| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/reginadiana) |  [<img src="https://avatars2.githubusercontent.com/u/54655097?s=400&v=4" width=115><br><sub>TenaniLucas</sub>](https://github.com/TenaniLucas) |  [<img src="https://avatars0.githubusercontent.com/u/53353915?s=400&u=62f2e018464f214c0039d92f3c6e236b314a4c04&v=4" width=115><br><sub>Guilherme bertho luiz</sub>](https://github.com/namae-no-nai) |
+| :---: | :---: | :---: 
 
 
 
