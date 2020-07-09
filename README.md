@@ -1,4 +1,6 @@
-![checkout](https://user-images.githubusercontent.com/46378210/87082737-d7d46c00-c201-11ea-9724-00c8f0d83794.png)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/46378210/87082737-d7d46c00-c201-11ea-9724-00c8f0d83794.png"/>
+</p>
 
 
 
